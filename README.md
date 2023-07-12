@@ -1,4 +1,4 @@
-##  Project Investment outcoms over a period of time using simple Monte Carlo Simulation
+##  Project Investment for both **Equity AND Rental Property** over a period of time using simple Monte Carlo Simulation
 
 ### Equity Assumptions:
 
