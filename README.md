@@ -65,10 +65,6 @@ This script is designed to visualize and compare the growth of an investment ove
 1. **Define Portfolio**: In the script, specify the portfolio by defining the tickers and their respective weights in the `portfolio_1` dictionary.
 2. **Define Market Indices**: Define the market indices that you want to compare against in the `stocks` dictionary.
 3. **Set Initial Investment and Monthly Contribution**: Modify the `initial_investment` and `monthly_investment` variables in the `compute_investment` function if you want to change the default values of $100,000 and $500, respectively.
-4. **Run the Script**: Execute the script using:
 
-   ```bash
-   python script_name.py
-   ```
 
 5. **View the Plot**: The script will display a plot showing the investment growth over time for both the portfolio and the selected market indices.
