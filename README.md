@@ -47,3 +47,33 @@
 
 # Portfolio Analysis Notebook
 
+Certainly! Below is a README for the script that can be used to describe its functionality, requirements, and usage.
+
+---
+
+# Investment Growth Comparison Script
+
+## Overview
+
+This script is designed to visualize and compare the growth of an investment over time for a specified portfolio and market indices, such as the S&P 500 and Dow Jones Industrial Average. Users can define a portfolio with specific weightings in different ETFs and then see how a hypothetical initial investment, with a regular monthly addition, would grow over a specified time frame.
+
+## Features
+
+- **Fetch Historical Data**: Downloads the historical price data for a given portfolio and market indices.
+- **Calculate Returns**: Computes the daily returns for both the portfolio and the market indices.
+- **Apply Monthly Investment**: Applies a user-defined monthly investment to the total.
+- **Visualize Growth**: Plots the cumulative investment value over time for both the portfolio and the market indices.
+
+
+## Usage
+
+1. **Define Portfolio**: In the script, specify the portfolio by defining the tickers and their respective weights in the `portfolio_1` dictionary.
+2. **Define Market Indices**: Define the market indices that you want to compare against in the `stocks` dictionary.
+3. **Set Initial Investment and Monthly Contribution**: Modify the `initial_investment` and `monthly_investment` variables in the `compute_investment` function if you want to change the default values of $100,000 and $500, respectively.
+4. **Run the Script**: Execute the script using:
+
+   ```bash
+   python script_name.py
+   ```
+
+5. **View the Plot**: The script will display a plot showing the investment growth over time for both the portfolio and the selected market indices.
