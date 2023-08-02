@@ -47,11 +47,6 @@
 
 # Portfolio Analysis Notebook
 
-Certainly! Below is a README for the script that can be used to describe its functionality, requirements, and usage.
-
----
-
-# Investment Growth Comparison Script
 
 ## Overview
 
