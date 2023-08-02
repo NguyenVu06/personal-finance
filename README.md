@@ -1,4 +1,5 @@
-##  Project Investment for both **Equity AND Rental Property** over a period of time using simple Monte Carlo Simulation
+# PROJECTION_NOTEBOOK:  
+## Project Investment for both **Equity AND Rental Property** over a period of time using simple Monte Carlo Simulation
 
 ### Equity Assumptions:
 
@@ -44,4 +45,5 @@
 
 12. **Number of Monte Carlo Simulations:** To account for the inherent randomness and uncertainties in the projections, the model uses a Monte Carlo method. It runs the simulation 10,000 times to generate a range of possible outcomes.
 
+# Portfolio Analysis Notebook
 
