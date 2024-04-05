@@ -6,6 +6,7 @@
 *.zip
 *.xls
 *.xlsx
+personal_income_local.ipynb
 # User-specific files
 *.rsuser
 *.suo
